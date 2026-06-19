@@ -1,0 +1,21 @@
+e = set()
+
+
+set = input("Enter the number for set")
+e.add(int(set))
+set = input("Enter the number for set")
+e.add(int(set))
+set = input("Enter the number for set")
+e.add(int(set))
+set = input("Enter the number for set")
+e.add(int(set))
+set = input("Enter the number for set")
+e.add(int(set))
+set = input("Enter the number for set")
+e.add(int(set))
+set = input("Enter the number for set")
+e.add(int(set))
+set = input("Enter the number for set")
+e.add(int(set))
+
+print(e)
