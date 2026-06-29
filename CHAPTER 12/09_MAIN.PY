@@ -1,0 +1,2 @@
+from MODULE import myfunc
+
